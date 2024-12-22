@@ -1,0 +1,9 @@
+model:
+  input_shape: [224, 224, 3]
+  num_classes: 3
+  dropout_rate: 0.05
+
+training:
+  batch_size: 32
+  epochs: 100
+  learning_rate: 0.0005

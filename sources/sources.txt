@@ -1,0 +1,2 @@
+1- Erlin, Indra Fuadi, Ramalia Noratama Putri, Dewi Nasien, Gusrianty, and Dwi Oktarina. "Deep Learning Approaches for Potato Leaf Disease Detection: Evaluating the Efficacy of Convolutional Neural Network Architectures." Revue d'Intelligence Artificielle, Vol. 38, No. 2, April 2024, pp. 717-727. DOI: 10.18280/ria.380236.
+2- Hughes, D.P., & Salathé, M. (2015). "An open access repository of images on plant health to enable the development of mobile disease diagnostics." arXiv preprint arXiv:1511.08060. Available at: https://data.mendeley.com/datasets/tywbtsjrjv/1.
